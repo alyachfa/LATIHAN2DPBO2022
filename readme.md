@@ -25,3 +25,8 @@ dispesifikasikan. Aamiin.
 
 ![Screenshot (588)](https://user-images.githubusercontent.com/75361865/154844194-53dff397-f79c-4bf4-aff7-1ca9d1bbcf47.png)
 
+3. C++
+
+![Screenshot (589)](https://user-images.githubusercontent.com/75361865/154845049-b0777e9d-ca13-42d6-b662-6bf8a6a9ea74.png)
+
+
