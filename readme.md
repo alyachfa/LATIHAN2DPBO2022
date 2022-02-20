@@ -22,5 +22,6 @@ dispesifikasikan. Aamiin.
 ![Screenshot (587)](https://user-images.githubusercontent.com/75361865/154842698-4779e24b-0010-4f7d-92cb-7dda808d9a38.png)
 
 2. Python
+
 ![Screenshot (588)](https://user-images.githubusercontent.com/75361865/154844194-53dff397-f79c-4bf4-aff7-1ca9d1bbcf47.png)
 
