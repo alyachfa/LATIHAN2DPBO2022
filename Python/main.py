@@ -1,0 +1,41 @@
+from product import product
+from hardware import hardware
+from memory import memory
+
+laptop = memory()
+laptop.setIdProduct("LD 08")
+laptop.setBrand("Dell")
+laptop.setModel("Inspirion 8")
+laptop.setPrice("Rp. 12.500.000")
+laptop.setFrequency("18 Gbps")
+laptop.setMemorySize("128GB")
+laptop.setSupportsCuda("Support")
+
+laptop2 = memory()
+laptop2.setIdProduct("LH 04")
+laptop2.setBrand("hp")
+laptop2.setModel("Pavillion Gaming")
+laptop2.setPrice("Rp. 14.500.000")
+laptop2.setFrequency("18 Gbps")
+laptop2.setMemorySize("128GB")
+laptop2.setSupportsCuda("Support")
+
+print("=========================================")
+print("Product ID : " + str(laptop.getIdProduct()))
+print("Brand : " + str(laptop.getBrand()))
+print("Model : " + str(laptop.getModel()))
+print("Price : " + str(laptop.getPrice()))
+print("Frequency : " + str(laptop.getFrequency()))
+print("Memory Size : " + str(laptop.getMemorySize()))
+print("Cuda Cores : " + str(laptop.getSupportsCuda()))
+print("=========================================")
+
+print("=========================================")
+print("Product ID : " + str(laptop2.getIdProduct()))
+print("Brand : " + str(laptop2.getBrand()))
+print("Model : " + str(laptop2.getModel()))
+print("Price : " + str(laptop2.getPrice()))
+print("Frequency : " + str(laptop2.getFrequency()))
+print("Memory Size : " + str(laptop2.getMemorySize()))
+print("Cuda Cores : " + str(laptop2.getSupportsCuda()))
+print("=========================================")
