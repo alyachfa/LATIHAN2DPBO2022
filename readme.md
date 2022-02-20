@@ -17,4 +17,6 @@ Saya Alya Chairunnisa mengerjakan evaluasi Latihan Praktikum 2 dalam mata kuliah
 DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah 
 dispesifikasikan. Aamiin.                                                         
 
+1. Java
 
+![Screenshot (587)](https://user-images.githubusercontent.com/75361865/154842698-4779e24b-0010-4f7d-92cb-7dda808d9a38.png)
